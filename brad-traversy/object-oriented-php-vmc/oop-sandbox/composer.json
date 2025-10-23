@@ -1,0 +1,6 @@
+{
+  "name": "object-oriented-php-vmc-app/oop-sandbox",
+  "scripts": {
+    "dev": "php -S localhost:8000"
+  }
+}
